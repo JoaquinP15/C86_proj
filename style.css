@@ -1,0 +1,22 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:url(Grass.jpg);
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:double;
+	background:linear-gradient(forestgreen, #19b62a);
+	border-color:darkgreen;
+}
+
+
+#hd3{
+	display: inline-block;
+	color:black;
+	background-color:cadetblue;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
